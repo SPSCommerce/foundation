@@ -1,4 +1,4 @@
-# [Foundation](http://foundation.zurb.com)
+# [Foundation HARD FORK TO WORK WITH SPS STYLES](http://foundation.zurb.com)
 
 [![Build Status](https://travis-ci.org/zurb/foundation.png)](https://travis-ci.org/zurb/foundation)
 
